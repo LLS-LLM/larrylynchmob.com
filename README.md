@@ -1,2 +1,2 @@
 # larrylynchmob.com
-LarryLynchMob.com website
+<a href="http://larrylynchmob.com" target="new">LarryLynchMob.com</a> website
